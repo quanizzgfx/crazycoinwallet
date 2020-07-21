@@ -1,0 +1,3 @@
+[submodule "crazycoin"]
+	path = crazycoin
+	url = https://github.com/quanizzgfx/crazycoin.git
