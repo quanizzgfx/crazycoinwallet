@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "qrazycoin")
-set(CN_CURRENCY_DISPLAY_NAME "QrazyCoin")
-set(CN_CURRENCY_TICKER "QZC")
+set(CN_PROJECT_NAME "crazycoin")
+set(CN_CURRENCY_DISPLAY_NAME "CrazyCoin")
+set(CN_CURRENCY_TICKER "CZCO")
